@@ -16,8 +16,12 @@ highest first.
   sha256 `c3f2775edc23273f936522618fcca3d71fdf0650dab1e05830ddd6058fd82e8e`).
   No redrawn ghost or logo: only the written name "make.fun".
 - **Caption:** see `../POSTING_DRAFT.md` (draft only — NOT posted yet).
-- **Play code:** `makefun-gopher-beaver-notebook` (verified live for this
-  bounty via the API; the referral code `ns5zj1fw` is NOT the play code).
+- **Play code:** `makefun-gecko-duckling-seagull` (this bounty's code 0,
+  verified via the kit CLI; the other codes are
+  makefun-nomad-abacus-totem, makefun-sunrise-marina-fig,
+  makefun-crystal-melody-zephyr — any one passes. NOTE:
+  makefun-gopher-beaver-notebook was the GTA6 bounty's code, not this
+  bounty's. The referral code `ns5zj1fw` is NOT the play code).
 - **Status: PENDING POST.** There is no X account for the @duwikgaul30-dot
   identity (make.fun profile shows `"x": null`), so the post goes out from
   Popi's own public account @HutangHui95891, exactly like gta6-meme-x-01.
